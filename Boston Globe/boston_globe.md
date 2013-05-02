@@ -4,7 +4,7 @@ HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Table of Contents
 1. [Primary Colors](#primary-colors)
-2. [Secondary Colors](#secondary-scolors)
+2. [Secondary Colors](#secondary-colors)
 3. [Black Spectrum](#black-spectrum)
 4. [Gray Spectrum](#gray-spectrum)
 
