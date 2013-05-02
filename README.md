@@ -17,4 +17,4 @@ Place the desired .ase files in following locations to have them appear natively
 `~/Applications/Applications/Adobe InDesign CS3/Presets/Swatch Libraries/`
 
 ### Note
-It may be a lot easier/more efficient maintenance-wise to place the swatch files in a single location (say `~/Dropbox/Swatches/`), then load as needed.
+It may be a lot easier/more efficient maintenance-wise to clone the swatch files to a single location (say `~/Dropbox/Swatches/`), then load as needed.
