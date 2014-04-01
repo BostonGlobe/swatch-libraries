@@ -16,7 +16,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 | Name    | Variable  | Hex       | RGBa                     | HSLa                     |
 | ------- | --------- | --------- | ------------------------ | ------------------------ |
-| Black   | `$black`  | `#3a3e41` | `rgba(58, 62, 65, 1)`    | `hsla(206, 6%, 24%, 1)`  |
+| ![Black](http://i.imgur.com/ZQtDeRG.png) Black   | `$black`  | `#3a3e41` | `rgba(58, 62, 65, 1)`    | `hsla(206, 6%, 24%, 1)`  |
 | Red     | `$red`    | `#ea212d` | `rgba(234, 33, 45, 1)`   | `hsla(356, 83%, 52%, 1)` |
 | Blue    | `$blue`   | `#59889d` | `rgba(89, 136, 157, 1)`  | `hsla(199, 28%, 48%, 1)` |
 | Steel   | `$steel`  | `#8e9da6` | `rgba(142, 157, 166, 1)` | `hsla(203, 12%, 60%, 1)` |
