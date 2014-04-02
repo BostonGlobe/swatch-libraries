@@ -14,7 +14,7 @@ HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 | Name                                                   | Hex     | RGBa                       | HSLa                      | Notes                                                                                          |
 | ------------------------------------------------------ | --------- | ------------------------ | ------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![Black Swatch](URL) Black                             | `#000000` | `rgba(0, 0, 0, 1)`       | `hsla(0, 0%, 0%, 1)`      | Article text. Hover state of tease headlines, links, etc.                                      |
+| ![Black Swatch](https://raw.githubusercontent.com/BostonGlobe/swatch-libraries/master/globe/swatches/globe/000000.png) Black                             | `#000000` | `rgba(0, 0, 0, 1)`       | `hsla(0, 0%, 0%, 1)`      | Article text. Hover state of tease headlines, links, etc.                                      |
 | ![Tease Black Swatch](URL) Tease Black                 | `#464646` | `rgba(70, 70, 70, 1)`    | `hsla(0, 0%, 27%, 1)`     | Tease text across the site                                                                     |
 | ![Tease Head Swatch](URL) Tease Head                   | `#444444` | `rgba(68, 68, 68, 1)`    | `hsla(0, 0%, 27%, 1)`     | Non-hover state of tease heads and packaged related story links                                |
 | ![Gray Swatch](URL) Gray                               | `#777777` | `rgba(119, 119, 119, 1)` | `hsla(0, 0%, 47%, 1)`     | Tease timestamps                                                                               |
