@@ -7,7 +7,7 @@ Use the `.ase` files in this repo to ensure consistent color use in working with
 
 
 ## Markdown (.md)
-Markdown breakdowns of the colors have also been provided, for easy reference and copy/paste efforts for design and development. HEX, RGBa, and HSLa values are included.
+Markdown breakdowns of the colors have also been provided, for easy reference and copy/paste efforts for design and development. Variable names, HEX, RGBa, and HSLa values are included.
 
 
 ## Installation
