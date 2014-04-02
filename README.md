@@ -1,30 +1,31 @@
 # Swatch Libraries
-A collection of official color swatches for the Boston Globe, Boston.com, and other relevant projects.
+Color reference and resources for use with Boston Globe and Boston Globe infographics projects.
 
 
-## Adobe Swatch Exchange (.ase)
-Use the `.ase` files in this repo to ensure consistent color use in working with the Adobe Creative Suite. 
+## Reference
+Pallete breakdown, including color and variable name, preview, Hex, RGBa, and HSLa values.
+
+- [Boston Globe](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe.md)
+- [Boston Globe Infographics](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe-infographics.md)
 
 
-## Markdown (.md)
-Markdown breakdowns of the colors have also been provided, for easy reference and copy/paste efforts for design and development. Variable names, HEX, RGBa, and HSLa values are included.
+## Resources
 
+### Swatches
+Use the Adobe Swatch Exchange (`.ase`) files in this repo to ensure consistent color use in working with the Adobe Creative Suite. Place a copy of the file into the following locations for them to appear natively in the Swatch menu (`Window > Swatches`):
 
-## Installation
-Place the desired `.ase` files in following locations to have them appear natively in the swatch loading menu:
-
-
-### Photoshop
+#### Photoshop
 `~/Applications/Adobe Photoshop CS6/Presets/Color Swatches/`
 
-
-### Illustrator
+#### Illustrator
 `~/Applications/Adobe Illustrator CS6/Presets/Swatches/`
 
-
-### Indesign
+#### Indesign
 `~/Applications/Applications/Adobe InDesign CS6/Presets/Swatch Libraries/`
 
+#### Note
+You may find it easier/more efficient to clone the swatch files to a single location (say `~/Dropbox/Swatches/`), then load them in-app as needed.
 
-### Note
-It may be a lot easier/more efficient maintenance-wise to clone the swatch files to a single location (say `~/Dropbox/Swatches/`), then load them in-app as needed.
+
+### JSON
+JSON files containing color and variable names, Hex, RGBa, and HSLa values.
