@@ -1,6 +1,6 @@
-# The Boston Globe Swatches
+# Boston Globe Swatches
 
-HEX, RGBa, and HSLa values can be copied directly into SASS.
+Color names, HEX, RGBa, and HSLa values.
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@ HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Primary Colors
 
-| Name                                                                              | Hex     | RGBa                       | HSLa                      | Notes                                                                                          |
+| Name                                                                              | HEX     | RGBa                       | HSLa                      | Notes                                                                                          |
 | --------------------------------------------------------------------------------- | --------- | ------------------------ | ------------------------- | ---------------------------------------------------------------------------------------------- |
 | ![Black Swatch](http://i.imgur.com/fQH0rWH.png) Black                             | `#000000` | `rgba(0, 0, 0, 1)`       | `hsla(0, 0%, 0%, 1)`      | Article text. Hover state of tease headlines, links, etc.                                      |
 | ![Tease Black Swatch](http://i.imgur.com/8vTjaml.png) Tease Black                 | `#464646` | `rgba(70, 70, 70, 1)`    | `hsla(0, 0%, 27%, 1)`     | Tease text across the site                                                                     |
@@ -27,7 +27,7 @@ HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Secondary Colors
 
-| Name                                                              | Hex       | RGBa                   | HSLa                     |
+| Name                                                              | HEX       | RGBa                   | HSLa                     |
 | ----------------------------------------------------------------- | --------- | ---------------------- | ------------------------ |
 | ![Dark Blue Swatch](http://i.imgur.com/lDG2pKG.png) Dark Blue     | `#173368` | `rgba(23, 51, 104, 1)` | `hsla(219, 64%, 25%, 1)` |
 | ![Blue Swatch](http://i.imgur.com/OGrwbpv.png) Blue               | `#234ea0` | `rgba(35, 78, 160, 1)` | `hsla(219, 64%, 38%, 1)` |
@@ -39,7 +39,7 @@ HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Black Spectrum
 
-| Hex                                                         | RGBa                  | HSLa                    |
+| HEX                                                         | RGBa                  | HSLa                    |
 | ----------------------------------------------------------- | --------------------- | ----------------------- |
 | ![#282526 Swatch](http://i.imgur.com/cRzJMhQ.png) `#282526` | `rgba(40, 37, 38, 1)` | `hsla(340, 4%, 15%, 1)` |
 | ![#464646 Swatch](http://i.imgur.com/8vTjaml.png) `#464646` | `rgba(70, 70, 70, 1)` | `hsla(340, 4%, 15%, 1)` |
@@ -49,7 +49,7 @@ HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Gray Spectrum
 
-| Hex                                                         | RGBa                     | HSLa                   |
+| HEX                                                         | RGBa                     | HSLa                   |
 | ----------------------------------------------------------- | ------------------------ | ---------------------- |
 | ![#464646 Swatch](http://i.imgur.com/8vTjaml.png) `#464646` | `rgba(70, 70, 70, 1)`    | `hsla(0, 0%, 27%, 1)`  |
 | ![#444444 Swatch](http://i.imgur.com/CGfcgHn.png) `#444444` | `rgba(68, 68, 68, 1)`    | `hsla(0, 0%, 27%, 1)`  |

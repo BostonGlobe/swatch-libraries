@@ -3,7 +3,7 @@ Color reference and resources for use with Boston Globe and Boston Globe infogra
 
 
 ## Reference
-Pallete breakdown, including color and variable name, preview, Hex, RGBa, and HSLa values.
+Pallete breakdown, including color and variable name, preview, HEX, RGBa, and HSLa values.
 
 - [Boston Globe](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe.md)
 - [Boston Globe Infographics](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe-infographics.md)
@@ -28,4 +28,4 @@ You may find it easier/more efficient to clone the swatch files to a single loca
 
 
 ### JSON
-JSON files containing color and variable names, Hex, RGBa, and HSLa values.
+JSON files containing color and variable names, HEX, RGBa, and HSLa values.

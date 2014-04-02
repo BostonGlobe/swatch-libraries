@@ -1,6 +1,6 @@
-# The Boston Globe Infographics Swatches
+# Boston Globe Infographics Swatches
 
-Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
+Color and variable names, HEX, RGBa, and HSLa values.
 
 
 ## Table of Contents
@@ -14,7 +14,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Primary
 
-| Name                                                    | Variable  | Hex       | RGBa                     | HSLa                     |
+| Name                                                    | Variable  | HEX       | RGBa                     | HSLa                     |
 | ------------------------------------------------------- | --------- | --------- | ------------------------ | ------------------------ |
 | ![Black Swatch](http://i.imgur.com/o4kbdJr.png) Black   | `$black`  | `#3a3e41` | `rgba(58, 62, 65, 1)`    | `hsla(206, 6%, 24%, 1)`  |
 | ![Red Swatch](http://i.imgur.com/gQYmXMS.png) Red       | `$red`    | `#ea212d` | `rgba(234, 33, 45, 1)`   | `hsla(356, 83%, 52%, 1)` |
@@ -27,7 +27,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Secondary
 
-| Name                                                            | Variable      | Hex       | RGBa                     | HSLa                     |
+| Name                                                            | Variable      | HEX       | RGBa                     | HSLa                     |
 | --------------------------------------------------------------- | ------------- | --------- | ------------------------ | ------------------------ |
 | ![Brick Swatch](http://i.imgur.com/FgjFqqa.png) Brick           | `$brick`      | `#bf6151` | `rgba(191, 97, 81, 1)`   | `hsla(9, 46%, 53%, 1)`   |
 | ![Periwinkle Swatch](http://i.imgur.com/yfWNGtO.png) Periwinkle | `$periwinkle` | `#90b1c0` | `rgba(144, 177, 192, 1)` | `hsla(199, 28%, 66%, 1)` |
@@ -40,7 +40,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Tertiary
 
-| Name                                                            | Variable       | Hex       | RGBa                     | HSLa                     |
+| Name                                                            | Variable       | HEX       | RGBa                     | HSLa                     |
 | --------------------------------------------------------------- | -------------- | --------- | ------------------------ | ------------------------ |
 | ![Dusk Swatch](http://i.imgur.com/6Q0PeU1.png) Dusk             | `$dusk`        | `#cad2d7` | `rgba(202, 210, 215, 1)` | `hsla(203, 14%, 82%, 1)` |
 | ![Rose Swatch](http://i.imgur.com/DIkazAY.png) Rose             | `$rose`        | `#dfc3b6` | `rgba(223, 195, 182, 1)` | `hsla(19, 39%, 79%, 1)`  |
@@ -54,7 +54,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Backgrounds
 
-| Name                                                      | Variable   | Hex       | RGBa                     | HSLa                     |
+| Name                                                      | Variable   | HEX       | RGBa                     | HSLa                     |
 | --------------------------------------------------------- | ---------- | --------- | ------------------------ | ------------------------ |
 | ![Cool Swatch](http://i.imgur.com/Y9TmAah.png) Cool       | `$cool`    | `#ecedee` | `rgba(236, 237, 238, 1)` | `hsla(210, 6%, 93%, 1)`  |
 | ![Neutral Swatch](http://i.imgur.com/BHz2eOg.png) Neutral | `$neutral` | `#edece4` | `rgba(237, 236, 228, 1)` | `hsla(53, 20%, 91%, 1)`  |
@@ -63,7 +63,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Black and White
 
-| Name                                                | Variable | Hex       | RGBa                     | HSLa                    |
+| Name                                                | Variable | HEX       | RGBa                     | HSLa                    |
 | --------------------------------------------------- | -------- | --------- | ------------------------ | ----------------------- |
 | ![100% Swatch](http://i.imgur.com/ed1UuBr.png) 100% | `$bw100` | `#4c4d4e` | `rgba(76, 77, 78, 1)`    | `hsla(210, 1%, 30%, 1)` |
 | ![75% Swatch](http://i.imgur.com/7A1N5RY.png) 75%   | `$bw75`  | `#939597` | `rgba(147, 149, 151, 1)` | `hsla(210, 2%, 58%, 1)` |
@@ -73,7 +73,7 @@ Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
 ## Maps
 
-| Name                                                          | Variable     | Hex       | RGBa                     | HSLa                     |
+| Name                                                          | Variable     | HEX       | RGBa                     | HSLa                     |
 | ------------------------------------------------------------- | ------------ | --------- | ------------------------ | ------------------------ |
 | ![Water Swatch](http://i.imgur.com/N0MuBA8.png) Water         | `$water`     | `#a3b9b6` | `rgba(163, 185, 182, 1)` | `hsla(172, 14%, 68%, 1)` |
 | ![Land Swatch](http://i.imgur.com/KJgVPvf.png) Land           | `$land`      | `#d3d8b1` | `rgba(211, 216, 177, 1)` | `hsla(68, 33%, 77%, 1)`  |
