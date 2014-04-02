@@ -1,4 +1,4 @@
-# Globe Infographics
+# The Boston Globe Infographics Swatches
 
 Variable, HEX, RGBa, and HSLa values can be copied directly into SASS.
 
