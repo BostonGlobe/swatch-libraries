@@ -5,11 +5,11 @@ Color and variable names, HEX, RGBa, and HSLa values.
 
 ## Table of Contents
 1. [Primary](#primary)
-3. [Secondary](#secondary)
-4. [Tertiary](#tertiary)
-5. [Backgrounds](#backgrounds)
-6. [Black and White](#black-and-white)
-7. [Maps](#maps)
+2. [Secondary](#secondary)
+3. [Tertiary](#tertiary)
+4. [Backgrounds](#backgrounds)
+5. [Black and White](#black-and-white)
+6. [Maps](#maps)
 
 
 ## Primary

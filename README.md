@@ -5,7 +5,7 @@ Color reference and resources for use with Boston Globe and Boston Globe infogra
 ## Reference
 Pallete breakdown, including color and variable name, preview, HEX, RGBa, and HSLa values.
 
-- [Boston Globe](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe.md)
+- [Boston Globe Web](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe-web.md)
 - [Boston Globe Infographics](https://github.com/BostonGlobe/swatch-libraries/blob/master/reference/globe-infographics.md)
 
 
