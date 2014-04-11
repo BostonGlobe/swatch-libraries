@@ -11,7 +11,7 @@ Color and variable names, HEX, CMYK, RGBa, and HSLa values.
 | ![Tomato Swatch](http://i.imgur.com/SXaispR.png) Tomato             | `$tomato`       | `#eb203b` | `0c 100m 85y 0k`   | `rgba(235, 32, 59, 1)`   | `hsla(352, 84%, 52%, 1)`  |
 | ![Sunkist Swatch](http://i.imgur.com/wt5WwPZ.png) Sunkist           | `$sunkist`      | `#f8a531` | `0c 40m 100y 0k`   | `rgba(248, 165, 49, 1)`  | `hsla(35, 93%, 58%, 1)`   |
 | ![Canary Swatch](http://i.imgur.com/rj8ToJU.png) Canary             | `$canary`       | `#ffdc2e` | `0c 10m 100y 0k`   | `rgba(255, 220, 46, 1)`  | `hsla(50, 100%, 59%, 1)`  |
-| ![Scallion Swatch](http://i.imgur.com/YlcO9AJ.png) Scallion         | `$scallion`     | `#a4ce68` | `#40c 0m 80y 0k`   | `rgba(164, 206, 104, 1)` | `hsla(85, 51%, 61%, 1)`   |
+| ![Scallion Swatch](http://i.imgur.com/YlcO9AJ.png) Scallion         | `$scallion`     | `#a4ce68` | `40c 0m 80y 0k`    | `rgba(164, 206, 104, 1)` | `hsla(85, 51%, 61%, 1)`   |
 | ![Forrest Gump Swatch](http://i.imgur.com/mFvMcOm.png) Forrest Gump | `$forrest-gump` | `#4bb87e` | `70c 0m 70y 0k`    | `rgba(75, 184, 126, 1)`  | `hsla(148, 43%, 51%, 1)`  |
 | ![Tortola Swatch](http://i.imgur.com/QLb321K.png) Tortola           | `$tortola`      | `#00b0bc` | `90c 0m 30y 0k`    | `rgba(149, 176, 189, 1)` | `hsla(200, 23%, 66%, 1)`  |
 | ![De Stijl Swatch](http://i.imgur.com/t7xMSiO.png) De Stijl         | `$de-stijl`     | `#95b0bd` | `20c 0m 0y 30k`    | `rgba(206, 229, 194, 1)` | `hsla(99, 40%, 83%, 1)`   |
