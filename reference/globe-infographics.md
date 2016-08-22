@@ -80,6 +80,25 @@ Color and variable names, HEX, RGBa, and HSLa values.
 | ![Streets Swatch](http://i.imgur.com/zAtTK0W.png) Streets     | `$streets`   | `#e7e6dd` | `rgba(231, 230, 221, 1)` | `hsla(54, 17%, 89%, 1)`  |
 | ![Buildings Swatch](http://i.imgur.com/H2mVBKG.png) Buildings | `$buildings` | `#cbcbc4` | `rgba(203, 203, 196, 1)` | `hsla(60, 6%, 78%, 1)`   |
 
+### 5-Step Palette (Print)
+
+| Name                                                  | HEX (Fill) | CMYK (Fill)             | HEX (Stroke) | CMYK (Stroke)            |
+| ----------------------------------------------------- | ---------- | ----------------------- | ------------ | ------------------------ |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 5 | `#0060ae`  | `C100%  M65%  Y0%  K0%` | `#2e3192`    | `C100%  M100%  Y0%  K0%` |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 4  | `#2b93d1`  | `C75%  M30%  Y0%  K0%`  | `#006cb7`    | `C100%  M55%  Y0%  K0%`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#7bccc6`  | `C50%  M0%  Y26%  K0%`  | `#00b18d`    | `C84%  M0%  Y60%  K0%`   |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#b9dfc1`  | `C28%  M0%  Y35%  K0%`  | `#6ac17b`    | `C60%  M0%  Y70%  K0%`   |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#f0f7e8`  | `C5%  M0%  Y10%  K0%`   | `#b7da9b`    | `C30%  M0%  Y50%  K0%`   |
+
+### 5-Step Palette (Web)
+
+| Name                                                  | HEX (Fill) | RGBa (Fill)              | HEX (Stroke) | RGBa (Stroke)            |
+| ----------------------------------------------------- | ---------- | ------------------------ | ------------ | ------------------------ |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 5 | `#0769ad`  | `rgba(8, 104, 172, 1)`   | `#223b75`    | `rgba(0, 53, 121, 1)`    |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 4  | `#43a2c9`  | `rgba(67, 162, 202, 1)`  | `#106f98`    | `rgba(16, 111, 151, 1)`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#7bccc4`  | `rgba(123, 204, 196, 1)` | `#489991`    | `rgba(72, 153, 145, 1)`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#bcdfba`  | `rgba(186, 228, 188, 1)` | `#86b189`    | `rgba(135, 177, 137, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#f1f7e8`  | `rgba(240, 249, 232, 1)` | `#bdc5b5`    | `rgba(189, 198, 181, 1)` |
 
 ## Color Schemes (Print)
 
@@ -166,3 +185,38 @@ Color and variable names, HEX, RGBa, and HSLa values.
 | ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#8e9ea7` | `rgba(142, 158, 167, 1)` |
 | ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
 | ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
+
+### 8-Step
+
+| Name                                                  | HEX       | RGBa                     |
+| ----------------------------------------------------- | --------- | ------------------------ |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 8 | `#66734e` | `rgba(102, 115, 78, 1)`  |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 7  | `#849365` | `rgba(132, 147, 101, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 6  | `#9eae78` | `rgba(158, 174, 120, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 5  | `#acbd82` | `rgba(172, 189, 130, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#b7c28d` | `rgba(183, 194, 141, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#d4d9b0` | `rgba(212, 217, 176, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#dae3cc` | `rgba(218, 227, 204, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#eeede4` | `rgba(238, 237, 228, 1)` |
+
+| Name                                                  | HEX       | RGBa                     |
+| ----------------------------------------------------- | --------- | ------------------------ |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 8 | `#00566f` | `rgba(0, 86, 111, 1)`    |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 7  | `#007a9c` | `rgba(0, 122, 156, 1)`   |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 6  | `#58899e` | `rgba(88, 137, 158, 1)`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 5  | `#849fc5` | `rgba(132, 159, 197, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#abaac7` | `rgba(171, 170, 199, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#dddae6` | `rgba(221, 218, 230, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#ebf3f8` | `rgba(235, 243, 248, 1)` |
+
+| Name                                                  | HEX       | RGBa                     |
+| ----------------------------------------------------- | --------- | ------------------------ |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 8 | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 7  | `#743237` | `rgba(116, 50, 55, 1)`   |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 6  | `#aa2b31` | `rgba(170, 43, 49, 1)`   |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 5  | `#dc6951` | `rgba(220, 105, 81, 1)`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#f79759` | `rgba(247, 151, 89, 1)`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#ffe881` | `rgba(255, 232, 129, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#eeede4` | `rgba(238, 237, 228, 1)` |
