@@ -133,31 +133,31 @@ Color and variable names, HEX, RGBa, and HSLa values.
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Warm 3 | `#c2614e` | `rgba(194, 97, 78, 1)`   |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Warm 2  | `#f79759` | `rgba(247, 151, 89, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Warm 1  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Warm 4 | `#c2614e` | `rgba(194, 97, 78, 1)`   |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Warm 3  | `#f79759` | `rgba(247, 151, 89, 1)`  |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Warm 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
 | ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Warm 1  | `#efe1d7` | `rgba(239, 225, 215, 1)` |
 
 | Name                                                 | HEX       | RGBa                     |
 | ---------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) B&W 3 | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) B&W 2  | `#8e9ea7` | `rgba(142, 158, 167, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) B&W 1  | `#cad3d8` | `rgba(202, 211, 216, 1)` |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) B&W 4 | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) B&W 3  | `#8e9ea7` | `rgba(142, 158, 167, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) B&W 2  | `#cad3d8` | `rgba(202, 211, 216, 1)` |
 | ![50% Swatch](http://i.imgur.com/2RZxNgh.png) B&W 1  | `#ebf3f8` | `rgba(235, 243, 248, 1)` |
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 1 | `#dc6951` | `rgba(220, 105, 81, 1)`  |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#c3d5df` | `rgba(195, 213, 223, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#58899e` | `rgba(88, 137, 158, 1)`  |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 4 | `#dc6951` | `rgba(220, 105, 81, 1)`  |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 3  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#c3d5df` | `rgba(195, 213, 223, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#58899e` | `rgba(88, 137, 158, 1)`  |
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 1 | `#f79759` | `rgba(247, 151, 89, 1)`  |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#cfd8c8` | `rgba(207, 216, 200, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#c2cd9f` | `rgba(194, 205, 159, 1)` |
+| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 4 | `#f79759` | `rgba(247, 151, 89, 1)`  |
+| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 3  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#cfd8c8` | `rgba(207, 216, 200, 1)` |
+| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#c2cd9f` | `rgba(194, 205, 159, 1)` |
 
 
 ### 5-Step
