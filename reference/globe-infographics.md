@@ -167,71 +167,60 @@ Color and variable names, HEX, RGBa, and HSLa values.
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 5 | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 4  | `#58899e` | `rgba(88, 137, 158, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#dddae6` | `rgba(221, 218, 230, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#ebf3f8` | `rgba(235, 243, 248, 1)` |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900592/d6b280cc-692d-11e6-8e4e-79c174526031.png) Step 5 | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900593/d6b373ce-692d-11e6-8996-6c5210c0fbd2.png) Step 4  | `#58899e` | `rgba(88, 137, 158, 1)`  |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900595/d6b606ca-692d-11e6-9515-30d1bde302ac.png) Step 3  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900596/d6bb176e-692d-11e6-80a2-47d9a1ebe441.png) Step 2  | `#dddae6` | `rgba(221, 218, 230, 1)` |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900594/d6b4b8e2-692d-11e6-969b-8fee52f5f849.png) Step 1  | `#ebf3f8` | `rgba(235, 243, 248, 1)` |
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 5 | `#aa2b31` | `rgba(170, 43, 49, 1)`   |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 4  | `#dc6951` | `rgba(220, 105, 81, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#f79759` | `rgba(247, 151, 89, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#efe1d7` | `rgba(239, 225, 215, 1)` |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900606/db9a5af6-692d-11e6-8b31-6943b2e527db.png) Step 5 | `#aa2b31` | `rgba(170, 43, 49, 1)`   |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900607/db9fd21a-692d-11e6-878a-da796dc8e7e1.png) Step 4  | `#dc6951` | `rgba(220, 105, 81, 1)`  |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900603/db96e33a-692d-11e6-97ea-df986c85346c.png) Step 3  | `#f79759` | `rgba(247, 151, 89, 1)`  |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900604/db982b64-692d-11e6-92e2-5f923e599fb3.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900605/db9802ec-692d-11e6-8272-5f83b42b3f44.png) Step 1  | `#efe1d7` | `rgba(239, 225, 215, 1)` |
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 5 | `#dc6951` | `rgba(220, 105, 81, 1)`  |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 4  | `#acbd82` | `rgba(172, 189, 130, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#8e9ea7` | `rgba(142, 158, 167, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900611/e10e65b8-692d-11e6-87e4-b9ac6c285e21.png) Step 5 | `#dc6951` | `rgba(220, 105, 81, 1)`  |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900614/e1179a98-692d-11e6-8c49-ca37416bb51a.png) Step 4  | `#acbd82` | `rgba(172, 189, 130, 1)` |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900612/e10e5d34-692d-11e6-89cc-30c22dc4ff9c.png) Step 3  | `#8e9ea7` | `rgba(142, 158, 167, 1)` |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900613/e110afd0-692d-11e6-8ac5-32182d1d2ff6.png) Step 2  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900610/e10cc992-692d-11e6-8fa4-5132e3c4b180.png) Step 1  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
 
 
 ### 8-Step
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 8 | `#66734e` | `rgba(102, 115, 78, 1)`  |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 7  | `#849365` | `rgba(132, 147, 101, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 6  | `#9eae78` | `rgba(158, 174, 120, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 5  | `#acbd82` | `rgba(172, 189, 130, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#b7c28d` | `rgba(183, 194, 141, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#d4d9b0` | `rgba(212, 217, 176, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#dae3cc` | `rgba(218, 227, 204, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#eeede4` | `rgba(238, 237, 228, 1)` |
+| ![step8](https://cloud.githubusercontent.com/assets/9308945/17900634/f14aa39c-692d-11e6-98bd-923528e8054a.png) Step 8 | `#66734e` | `rgba(102, 115, 78, 1)`  |
+| ![step7](https://cloud.githubusercontent.com/assets/9308945/17900635/f14f0bda-692d-11e6-8d82-72b23c878f1a.png) Step 7  | `#849365` | `rgba(132, 147, 101, 1)` |
+| ![step6](https://cloud.githubusercontent.com/assets/9308945/17900628/f1415436-692d-11e6-9247-75ae563c6128.png) Step 6  | `#9eae78` | `rgba(158, 174, 120, 1)` |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900629/f1415b02-692d-11e6-930d-e3509c454122.png) Step 5  | `#acbd82` | `rgba(172, 189, 130, 1)` |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900627/f141210a-692d-11e6-9d59-12af65968d46.png) Step 4  | `#b7c28d` | `rgba(183, 194, 141, 1)` |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900633/f1482d6a-692d-11e6-8876-9ef626d59174.png) Step 3  | `#d4d9b0` | `rgba(212, 217, 176, 1)` |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900632/f147b3bc-692d-11e6-8224-26f747409a1f.png) Step 2  | `#dae3cc` | `rgba(218, 227, 204, 1)` |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900630/f1430d80-692d-11e6-9f2d-ae57f9cd325b.png) Step 1  | `#eeede4` | `rgba(238, 237, 228, 1)` |
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 8 | `#00566f` | `rgba(0, 86, 111, 1)`    |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 7  | `#007a9c` | `rgba(0, 122, 156, 1)`   |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 6  | `#58899e` | `rgba(88, 137, 158, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 5  | `#849fc5` | `rgba(132, 159, 197, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#abaac7` | `rgba(171, 170, 199, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#dddae6` | `rgba(221, 218, 230, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#ebf3f8` | `rgba(235, 243, 248, 1)` |
+| ![step8](https://cloud.githubusercontent.com/assets/9308945/17900653/000ed7ae-692e-11e6-815d-36ba16b44805.png)  | `#00566f` | `rgba(0, 86, 111, 1)`    |
+| ![step7](https://cloud.githubusercontent.com/assets/9308945/17900654/000efef0-692e-11e6-8c38-9b1029f35788.png)  | `#007a9c` | `rgba(0, 122, 156, 1)`   |
+| ![step6](https://cloud.githubusercontent.com/assets/9308945/17900652/000c4098-692e-11e6-9f51-881e893a6930.png)  | `#58899e` | `rgba(88, 137, 158, 1)`  |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900651/000c3922-692e-11e6-8e11-87469a56a501.png)  | `#849fc5` | `rgba(132, 159, 197, 1)` |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900648/00078102-692e-11e6-9dd2-34c3d79a7edf.png)  | `#abaac7` | `rgba(171, 170, 199, 1)` |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900647/0006c456-692e-11e6-8691-db221c12654f.png)  | `#cdb4c9` | `rgba(205, 180, 201, 1)` |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900649/0007876a-692e-11e6-86af-2c1cf7c1aa11.png)  | `#dddae6` | `rgba(221, 218, 230, 1)` |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900650/000a7dbc-692e-11e6-8f11-93afadd30215.png)  | `#ebf3f8` | `rgba(235, 243, 248, 1)` |
 
 | Name                                                  | HEX       | RGBa                     |
 | ----------------------------------------------------- | --------- | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 8 | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 7  | `#743237` | `rgba(116, 50, 55, 1)`   |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 6  | `#aa2b31` | `rgba(170, 43, 49, 1)`   |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 5  | `#dc6951` | `rgba(220, 105, 81, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 4  | `#f79759` | `rgba(247, 151, 89, 1)`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#ffe881` | `rgba(255, 232, 129, 1)` |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#eeede4` | `rgba(238, 237, 228, 1)` |
-
-
-
-
-
-
-
-
-
-
-
+| ![step8](https://cloud.githubusercontent.com/assets/9308945/17900668/09840782-692e-11e6-9cd1-277b84fb44da.png)  | `#3a3e42` | `rgba(58, 62, 66, 1)`    |
+| ![step7](https://cloud.githubusercontent.com/assets/9308945/17900667/09819d3a-692e-11e6-8e57-c4446162a6ef.png)  | `#743237` | `rgba(116, 50, 55, 1)`   |
+| ![step6](https://cloud.githubusercontent.com/assets/9308945/17900665/097aec42-692e-11e6-9599-964beab9c12d.png)  | `#aa2b31` | `rgba(170, 43, 49, 1)`   |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900666/097d30d8-692e-11e6-9015-4661f357bc75.png)  | `#dc6951` | `rgba(220, 105, 81, 1)`  |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900661/09790a58-692e-11e6-8032-68e4a6a6fdec.png)  | `#f79759` | `rgba(247, 151, 89, 1)`  |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900664/097988f2-692e-11e6-90f9-1bd58d92ca7c.png)  | `#ffce7b` | `rgba(255, 206, 123, 1)` |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900662/09792434-692e-11e6-9c3f-4323fdac82f7.png)  | `#ffe881` | `rgba(255, 232, 129, 1)` |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900663/09791de0-692e-11e6-81f3-dc6a34aca903.png)  | `#eeede4` | `rgba(238, 237, 228, 1)` |
