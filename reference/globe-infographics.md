@@ -84,11 +84,11 @@ Color and variable names, HEX, RGBa, and HSLa values.
 
 | Name                                                  | HEX (Fill) | CMYK (Fill)             | HEX (Stroke) | CMYK (Stroke)            |
 | ----------------------------------------------------- | ---------- | ----------------------- | ------------ | ------------------------ |
-| ![100% Swatch](http://i.imgur.com/ed1UuBr.png) Step 5 | `#0060ae`  | `C100%  M65%  Y0%  K0%` | `#2e3192`    | `C100%  M100%  Y0%  K0%` |
-| ![75% Swatch](http://i.imgur.com/7A1N5RY.png) Step 4  | `#2b93d1`  | `C75%  M30%  Y0%  K0%`  | `#006cb7`    | `C100%  M55%  Y0%  K0%`  |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 3  | `#7bccc6`  | `C50%  M0%  Y26%  K0%`  | `#00b18d`    | `C84%  M0%  Y60%  K0%`   |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 2  | `#b9dfc1`  | `C28%  M0%  Y35%  K0%`  | `#6ac17b`    | `C60%  M0%  Y70%  K0%`   |
-| ![50% Swatch](http://i.imgur.com/2RZxNgh.png) Step 1  | `#f0f7e8`  | `C5%  M0%  Y10%  K0%`   | `#b7da9b`    | `C30%  M0%  Y50%  K0%`   |
+| ![step5](https://cloud.githubusercontent.com/assets/9308945/17900683/197dfb8e-692e-11e6-9d2e-0d6be165a60f.png) Step 5 | `#0060ae`  | `C100%  M65%  Y0%  K0%` | `#2e3192`    | `C100%  M100%  Y0%  K0%` |
+| ![step4](https://cloud.githubusercontent.com/assets/9308945/17900682/197bbd06-692e-11e6-8166-7bb71de2ec2f.png) Step 4  | `#2b93d1`  | `C75%  M30%  Y0%  K0%`  | `#006cb7`    | `C100%  M55%  Y0%  K0%`  |
+| ![step3](https://cloud.githubusercontent.com/assets/9308945/17900681/197b990c-692e-11e6-88a8-3bbce3192c7a.png) Step 3  | `#7bccc6`  | `C50%  M0%  Y26%  K0%`  | `#00b18d`    | `C84%  M0%  Y60%  K0%`   |
+| ![step2](https://cloud.githubusercontent.com/assets/9308945/17900685/197f425a-692e-11e6-8a8c-3f2fa27de95c.png) Step 2  | `#b9dfc1`  | `C28%  M0%  Y35%  K0%`  | `#6ac17b`    | `C60%  M0%  Y70%  K0%`   |
+| ![step1](https://cloud.githubusercontent.com/assets/9308945/17900684/197e026e-692e-11e6-89a2-87148109b4f9.png) Step 1  | `#f0f7e8`  | `C5%  M0%  Y10%  K0%`   | `#b7da9b`    | `C30%  M0%  Y50%  K0%`   |
 
 ### 5-Step Palette (Web)
 
